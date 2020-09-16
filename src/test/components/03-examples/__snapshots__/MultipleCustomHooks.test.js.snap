@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el <MultipleCustomHooks> debe hacer match el componente MultipleCustomHooks  1`] = `
+<Fragment>
+  <h1>
+    BreakingBad Quotes
+  </h1>
+  <hr />
+  <div
+    className="alert alert-info text-center"
+  >
+    Loading
+  </div>
+  <button
+    className="btn btn-primary"
+    disabled={true}
+    onClick={[Function]}
+  >
+    Anterior
+  </button>
+  <button
+    className="btn btn-primary "
+    onClick={[Function]}
+  >
+    Next
+  </button>
+</Fragment>
+`;

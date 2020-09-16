@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en el TodoListIten debe mostrarse correctamente 1`] = `
+<Fragment>
+  <li
+    className="list-group-iten mb-2"
+    key="1"
+  >
+    <p
+      className="false"
+      onClick={[Function]}
+    >
+      1
+      -
+      description1
+    </p>
+    <button
+      className="btn btn-danger"
+      onClick={[Function]}
+    >
+      Borrar
+    </button>
+  </li>
+</Fragment>
+`;

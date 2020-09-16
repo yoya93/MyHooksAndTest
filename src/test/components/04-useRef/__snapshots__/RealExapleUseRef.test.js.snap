@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el <RealExapleUseRef> debe hacer match el componente RealExapleUseRef  1`] = `
+<Fragment>
+  <h1>
+    Focus Screen
+  </h1>
+  <hr />
+  <button
+    className="btn btn-primary mt-5 inline-block"
+    onClick={[Function]}
+  >
+    Show
+  </button>
+</Fragment>
+`;
